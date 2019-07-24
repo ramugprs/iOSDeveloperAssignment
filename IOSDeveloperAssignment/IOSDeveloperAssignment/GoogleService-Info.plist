@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>767089654335-r1r7ilifes18bpd5olplc5bo9k7hbo8f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.767089654335-r1r7ilifes18bpd5olplc5bo9k7hbo8f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrb4Psw6CsGYMEfAyNvSu1mtUqBpoThtA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767089654335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.developer.testDB</string>
+	<key>PROJECT_ID</key>
+	<string>samplerealtimedb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>samplerealtimedb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767089654335:ios:e33953009cd1dac4</string>
+	<key>DATABASE_URL</key>
+	<string>https://samplerealtimedb.firebaseio.com</string>
+</dict>
+</plist>
